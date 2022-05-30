@@ -1,0 +1,14 @@
+C:\Users\pc\source\repos\Delta\Delta\bin\Debug\netcoreapp3.1\Delta.exe
+C:\Users\pc\source\repos\Delta\Delta\bin\Debug\netcoreapp3.1\Delta.deps.json
+C:\Users\pc\source\repos\Delta\Delta\bin\Debug\netcoreapp3.1\Delta.runtimeconfig.json
+C:\Users\pc\source\repos\Delta\Delta\bin\Debug\netcoreapp3.1\Delta.runtimeconfig.dev.json
+C:\Users\pc\source\repos\Delta\Delta\bin\Debug\netcoreapp3.1\Delta.dll
+C:\Users\pc\source\repos\Delta\Delta\bin\Debug\netcoreapp3.1\Delta.pdb
+C:\Users\pc\source\repos\Delta\Delta\obj\Debug\netcoreapp3.1\Delta.csproj.AssemblyReference.cache
+C:\Users\pc\source\repos\Delta\Delta\obj\Debug\netcoreapp3.1\Delta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\source\repos\Delta\Delta\obj\Debug\netcoreapp3.1\Delta.AssemblyInfoInputs.cache
+C:\Users\pc\source\repos\Delta\Delta\obj\Debug\netcoreapp3.1\Delta.AssemblyInfo.cs
+C:\Users\pc\source\repos\Delta\Delta\obj\Debug\netcoreapp3.1\Delta.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\Delta\Delta\obj\Debug\netcoreapp3.1\Delta.dll
+C:\Users\pc\source\repos\Delta\Delta\obj\Debug\netcoreapp3.1\Delta.pdb
+C:\Users\pc\source\repos\Delta\Delta\obj\Debug\netcoreapp3.1\Delta.genruntimeconfig.cache
